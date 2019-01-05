@@ -1,0 +1,24 @@
+
+body {
+  background-color: MediumTurquoise;
+  font-family: sans-serif;
+}
+
+article {
+  border-top: black 2px solid;
+  margin-top: 2em;
+}
+
+p.muestra {
+  margin-left: 50%;
+}
+
+iframe {
+  width: 100%;
+}
+
+address {
+  border-top: black 2px solid;
+  margin-top: 2em;
+  padding-top: 5px;
+}
